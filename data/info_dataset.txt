@@ -1,0 +1,55 @@
+https://www.kaggle.com/datasets/umerhaddii/amazon-stock-data-2025
+Amazon Stock Data 2025
+All time Amazon Stock Data 1997 - 2025
+About Dataset
+Context
+Amazon.com, Inc. is an American online retailer with a wide range of products. According to its own information, Amazon, as the market leader in Internet trade, has the world's largest selection of books, CDs and videos. Via the integrated sales platform Marketplace, private individuals or other companies can also offer new and used products as part of online trading. The Amazon Kindle is sold under its own brand as a reader for electronic books, the Amazon Fire HD tablet computer, the Fire TV set-top box, the Fire TV Stick HDMI stick and the Echo speech recognition system.
+
+With sales of $280 billion in 2019, a profit of $11.6 billion, and a market value of $1.32 trillion (June 2020), it was the third most valuable after Apple and Microsoft, and even before Google United States company.
+
+Market cap
+Market capitalization of Amazon (AMZN)
+
+Market cap: $2.362 Trillion USD
+As of February 2025 Amazon has a market cap of $2.362 Trillion USD. This makes Amazon the world's 4th most valuable company by market cap according to our data. The market capitalization, commonly called market cap, is the total market value of a publicly traded company's outstanding shares and is commonly used to measure how much a company is worth.
+
+Revenue
+Revenue for Amazon (AMZN)
+
+Revenue in 2024 (TTM): $637.95 Billion USD
+According to Amazon's latest financial reports the company's current revenue (TTM ) is $637.95 Billion USD. an increase over the revenue in the year 2023 that were of $574.78 Billion USD. The revenue is the total amount of income that a company generates by the sale of goods or services. Unlike with the earnings no expenses are subtracted.
+
+Earnings
+Earnings for Amazon (AMZN)
+
+Earnings in 2024 (TTM): $71.02 Billion USD
+According to Amazon's latest financial reports the company's current earnings are $637.95 Billion USD. , an increase over its 2023 earnings that were of $40.73 Billion USD. The earnings displayed on this page is the company's Pretax Income.
+
+End of Day market cap according to different sources
+
+On Feb 20th, 2025 the market cap of Amazon was reported to be:
+
+$2.362 Trillion USD by Yahoo Finance
+
+$2.362 Trillion USD by CompaniesMarketCap
+
+$2.362 Trillion USD by Nasdaq
+
+Content
+Geography: USA
+
+Time period: May 1997- February 2025
+
+Unit of analysis: Amazon Stock Data 2025
+
+Variables
+Variable	Description
+date	date
+open	The price at market open.
+high	The highest price for that day.
+low	The lowest price for that day.
+close	The price at market close, adjusted for splits.
+adj_close	The closing price after adjustments for all applicable splits and dividend distributions. Data is adjusted using appropriate split and dividend multipliers, adhering to Center for Research in Security Prices (CRSP) standards.
+volume	The number of shares traded on that day.
+Acknowledgements
+This dataset belongs to me. I’m sharing it here for free. You may do with it as you wish.
