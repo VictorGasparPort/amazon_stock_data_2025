@@ -5,7 +5,7 @@ Este projeto tem como objetivo analisar dados históricos das ações da Amazon 
 ---
 
 ## 📁 Estrutura do Projeto:
-
+```text
 amazon_stock_data_2025/
 │
 ├── data/
@@ -24,7 +24,8 @@ amazon_stock_data_2025/
 │
 ├── .gitignore
 └── README.md
----
+```
+---  
 
 ## 🔧 Tecnologias Utilizadas
 
