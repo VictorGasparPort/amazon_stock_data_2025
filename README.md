@@ -23,6 +23,8 @@ amazon_stock_data_2025/
 ├── streamlit/           # Aplicações interativas em Streamlit
 │
 ├── .gitignore
+├── requirements.md
+├── LICENSE
 └── README.md
 ```
 ---  
