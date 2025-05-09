@@ -4,21 +4,26 @@ Este projeto tem como objetivo analisar dados históricos das ações da Amazon 
 
 ---
 
-## 📁 Estrutura do Projeto a
+## 📁 Estrutura do Projeto:
 
-amazon_stock_data_2025/ │ 
-			├── data/ │
-				  ├── processed/ # Dados tratados │
-				  └── raw/ # Dados originais (não versionados)│
-			├── notebooks/ # Análises e tratamento de dados em Jupyter │ 
-			├── sql/ │
-				 ├── advanced_queries/ │
-				 ├── optmization_examples/ │
-				 ├── simple_queries/ │
-				 └── table_creation_scripts/ │ 
-			├── streamlit/ # Aplicações interativas em Streamlit │
-			├── .gitignore 
-		        └── README.md
+amazon_stock_data_2025/
+│
+├── data/
+│   ├── processed/       # Dados tratados
+│   └── raw/             # Dados originais (não versionados)
+│
+├── notebooks/           # Análises e tratamento de dados em Jupyter
+│
+├── sql/
+│   ├── advanced_queries/
+│   ├── optimization_examples/
+│   ├── simple_queries/
+│   └── table_creation_scripts/
+│
+├── streamlit/           # Aplicações interativas em Streamlit
+│
+├── .gitignore
+└── README.md
 ---
 
 ## 🔧 Tecnologias Utilizadas
